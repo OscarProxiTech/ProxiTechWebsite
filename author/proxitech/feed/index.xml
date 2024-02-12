@@ -9,8 +9,8 @@
 
 <channel>
 	<title>proxitech &#8211; ProxiTech</title>
-	<atom:link href="https://oscarproxitech.github.io/ProxiTechWebsite/author/proxitech/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oscarproxitech.github.io/ProxiTechWebsite/</link>
+	<atom:link href="https://www.proxitech.com.au/author/proxitech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.proxitech.com.au/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 09:12:17 +0000</lastBuildDate>
 	<language>en-AU</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://oscarproxitech.github.io/ProxiTechWebsite/2024/02/08/hello-world/</link>
-					<comments>https://oscarproxitech.github.io/ProxiTechWebsite/2024/02/08/hello-world/#comments</comments>
+		<link>https://www.proxitech.com.au/2024/02/08/hello-world/</link>
+					<comments>https://www.proxitech.com.au/2024/02/08/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[proxitech]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 09:12:17 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">https://oscarproxitech.github.io/ProxiTechWebsite/?p=1</guid>
+		<guid isPermaLink="false">https://www.proxitech.com.au/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://oscarproxitech.github.io/ProxiTechWebsite/2024/02/08/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.proxitech.com.au/2024/02/08/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

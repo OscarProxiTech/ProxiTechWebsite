@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="https://oscarproxitech.github.io/ProxiTechWebsite/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oscarproxitech.github.io/ProxiTechWebsite/</link>
+	<atom:link href="https://www.proxitech.com.au/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.proxitech.com.au/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 09:12:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
